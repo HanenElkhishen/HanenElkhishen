@@ -1,6 +1,6 @@
 # 💖 Hi, I'm Hanen
 
-![Header GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNhdjVlcmF5enRoYnh1c3p4eWVxcGZxNWF1MHI2ZmZ3dXVsZjh6YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![Header GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGYwem9tYmx4emVqZ3hsaHJ0cmZiYmhzd3p4a3Jsd3FzaWY0MGw3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tmwir1pAi8fUk/giphy.gif)
 
 ## ✨ About Me
 I'm a **Data Analyst & BI Developer** with a passion for transforming numbers into beautiful, meaningful stories. I love creating dashboards that are both powerful and pretty! 💅
