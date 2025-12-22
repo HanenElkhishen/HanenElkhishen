@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Hanen
 
-![Header GIF](https://giphy.com/gifs/MBAchicblog-business-werk-school-QvFl5Ym0Ug9EpyeV4o)
+![Header GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHNhdjVlcmF5enRoYnh1c3p4eWVxcGZxNWF1MHI2ZmZ3dXVsZjh6YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 ### 💻 About Me
 I’m a **Data Analyst & BI Developer** passionate about exploring data and transforming it into actionable insights. I love working with **Python, Pandas, NumPy, SQL, and Power BI**.  
