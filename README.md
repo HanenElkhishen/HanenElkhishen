@@ -28,7 +28,6 @@ I'm a **Data Analyst & BI Developer** with a passion for transforming numbers in
 ## 🎀 Featured Projects
 
 ### [Premier League Analysis](https://github.com/HagarAboSamra/depi-DA-project)
-*A full analysis combining all my data skills into one beautiful project*  
 ![Project GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV1b2ZwMXdsM2EzNTQxZXMwZ28xa2hyYnozcWRmbGJ4MWRqbW5hcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3eJXfXeQ7mGbXcqIQy/giphy.gif)
 
 ---
