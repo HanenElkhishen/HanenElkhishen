@@ -75,8 +75,9 @@ I'm a **Data Analyst & BI Developer** with a passion for transforming numbers in
   
 ✨ 🌙 ⭐ 💫 🌠 🌸 🦢 🕊️ 
 
-</div>
-<sub>⭐ If you love pretty data as much as I do, let's connect! ⭐</sub>
+<div align="center">
+
+⭐ If you love pretty data as much as I do, let's connect! ⭐
 
 </div>
 
