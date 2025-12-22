@@ -1,6 +1,6 @@
 <div align="center">
 # 💖 Hi, I'm Hanen
-</div>
+
 ![Header GIF](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGYwem9tYmx4emVqZ3hsaHJ0cmZiYmhzd3p4a3Jsd3FzaWY0MGw3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tmwir1pAi8fUk/giphy.gif)
 
 ## ✨ About Me
