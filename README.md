@@ -50,13 +50,13 @@ I'm a **Data Analyst & BI Developer** with a passion for transforming numbers in
 
 ---
 
-## 💌 Let's Create Something Beautiful Together
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-9370db?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanenhosamelkhishen/)
-[![Email](https://img.shields.io/badge/-Email-daa520?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanenelkhishen2025@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-d8bfd8?style=for-the-badge&logo=github&logoColor=black)](https://github.com/HanenElkhishen)
+## 💌 Let's Create Something Beautiful Together
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanenhosamelkhishen/)
+[![Email](https://img.shields.io/badge/-Email-db7093?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanenelkhishen2025@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=black)](https://github.com/HanenElkhishen)
 
 </div>
 
