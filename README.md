@@ -37,14 +37,14 @@ I'm a **Data Analyst & BI Developer** with a passion for transforming numbers in
 
 <div align="center">
 
-<!-- Pink-themed stats -->
-![Hanen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanenElkhishen&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=fff0f5&title_color=ff69b4&icon_color=ffb6c1&text_color=db7093&border_color=ffb6c1&ring_color=ff69b4)
+<!-- Lavender & gold stats -->
+![Hanen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanenElkhishen&show_icons=true&count_private=true&hide_border=true&theme=default&bg_color=0d1117&title_color=d8bfd8&icon_color=daa520&text_color=c9c0d3&border_color=9370db&ring_color=daa520)
 
-<!-- Floral streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HanenElkhishen&theme=radical&hide_border=true&background=fff0f5&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&dates=db7093)
+<!-- Elegant streak stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HanenElkhishen&theme=default&hide_border=true&background=0d1117&ring=d8bfd8&fire=daa520&currStreakLabel=9370db&dates=c9c0d3&stroke=9370db)
 
-<!-- Girly activity graph -->
-![Hanen's Activity](https://github-readme-activity-graph.vercel.app/graph?username=HanenElkhishen&theme=github-compact&hide_border=true&area=true&bg_color=fff0f5&color=ff69b4&line=ffb6c1&point=ff69b4&area_color=ffe4e8)
+<!-- Feminine activity graph -->
+![Hanen's Activity](https://github-readme-activity-graph.vercel.app/graph?username=HanenElkhishen&theme=github&hide_border=true&area=true&bg_color=0d1117&color=9370db&line=d8bfd8&point=daa520&area_color=2d1b46&title_color=d8bfd8)
 
 </div>
 
@@ -54,18 +54,28 @@ I'm a **Data Analyst & BI Developer** with a passion for transforming numbers in
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanenhosamelkhishen/)
-[![Email](https://img.shields.io/badge/-Email-db7093?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanenelkhishen2025@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-ffb6c1?style=for-the-badge&logo=github&logoColor=black)](https://github.com/HanenElkhishen)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-9370db?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanenhosamelkhishen/)
+[![Email](https://img.shields.io/badge/-Email-daa520?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hanenelkhishen2025@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-d8bfd8?style=for-the-badge&logo=github&logoColor=black)](https://github.com/HanenElkhishen)
 
 </div>
 
 ---
 
-<div align="center" style="padding: 20px; background: linear-gradient(135deg, #fff0f5, #ffe4e8); border-radius: 15px; margin: 20px 0;">
+<div align="center" style="padding: 20px; background: linear-gradient(135deg, #0d1117, #2d1b46); border-radius: 15px; margin: 20px 0; border: 1px solid #9370db;">
 
-### 🌸 **Data is the new canvas, and insights are our masterpiece.** 🌸
+### 🌟 **Data is the new canvas, and insights are our masterpiece.** ✨
 
+<sub>💫 If you love elegant data as much as I do, let's connect! 💫</sub>
+
+</div>
+
+<!-- Elegant decorations -->
+<div align="center">
+  
+✨ 🌙 ⭐ 💫 🌠 🌸 🦢 🕊️ 
+
+</div>
 <sub>⭐ If you love pretty data as much as I do, let's connect! ⭐</sub>
 
 </div>
