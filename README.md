@@ -7,8 +7,8 @@ I’m a **Data Analyst & BI Developer** passionate about exploring data and tran
 
 ### 🔧 Skills
 - **Programming & Data Analysis:** Python, Pandas, NumPy, SQL  
-- **Data Visualization:** Power BI, Matplotlib, Seaborn  
-- **Others:** Excel, Data Cleaning, EDA, Dashboarding  
+- **Data Visualization & BI:** Power BI, Tableau, Matplotlib, Seaborn  
+- **Others:** Excel, Data Cleaning, EDA, Dashboarding
 
 ### 📊 Projects
 - **[Premier League Analysis](https://github.com/HagarAboSamra/depi-DA-project)**  
