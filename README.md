@@ -38,9 +38,6 @@ I'm a **Data Analyst & BI Developer** with a passion for transforming numbers in
 
 <div align="center">
 
-<!-- Elegant streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HanenElkhishen&theme=default&hide_border=true&background=0d1117&ring=d8bfd8&fire=daa520&currStreakLabel=9370db&dates=c9c0d3&stroke=9370db)
-
 <!-- Feminine activity graph -->
 ![Hanen's Activity](https://github-readme-activity-graph.vercel.app/graph?username=HanenElkhishen&theme=github&hide_border=true&area=true&bg_color=0d1117&color=9370db&line=d8bfd8&point=daa520&area_color=2d1b46&title_color=d8bfd8)
 
