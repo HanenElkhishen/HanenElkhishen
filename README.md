@@ -38,9 +38,6 @@ I'm a **Data Analyst & BI Developer** with a passion for transforming numbers in
 
 <div align="center">
 
-<!-- Lavender & gold stats -->
-![Hanen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HanenElkhishen&show_icons=true&count_private=true&hide_border=true&theme=default&bg_color=0d1117&title_color=d8bfd8&icon_color=daa520&text_color=c9c0d3&border_color=9370db&ring_color=daa520)
-
 <!-- Elegant streak stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HanenElkhishen&theme=default&hide_border=true&background=0d1117&ring=d8bfd8&fire=daa520&currStreakLabel=9370db&dates=c9c0d3&stroke=9370db)
 
