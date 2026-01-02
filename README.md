@@ -1,7 +1,7 @@
 # Hanen Elkhishen
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MGYwem9tYmx4emVqZ3hsaHJ0cmZiYmhzd3p4a3Jsd3FzaWY0MGw3eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tmwir1pAi8fUk/giphy.gif" alt="Header Animation" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW1mb25nNG1samQ5YnppOWFrM2dkczF5dXVnMGlwcHdqYW5rbXo0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4FQMuOKR6zQRO/giphy.gif" alt="Header Animation" width="100%"/>
 </div>
 
 <div align="center">
