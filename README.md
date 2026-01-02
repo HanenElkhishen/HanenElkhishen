@@ -182,9 +182,11 @@ I welcome opportunities to collaborate on innovative data analytics projects, co
 
 ### 💼 Open to Opportunities
 
-**Available for:** Freelance Projects • Collaborative Research • Technical Consultation • Data Analytics Roles
+**Available for:**  Data Analytics Roles (Full-time / Internship) • Freelance Projects • Corporate Training & Internships • Collaborative Research
 
-**Contact:** [hanenelkhishen2025@gmail.com](mailto:hanenelkhishen2025@gmail.com)
+**Contact:** 
+- Email: [hanenelkhishen2025@gmail.com](mailto:hanenelkhishen2025@gmail.com)
+- LinkedIn: [linkedin.com/in/hanenhosamelkhishen](https://www.linkedin.com/in/hanenhosamelkhishen/)
 
 </div>
 
