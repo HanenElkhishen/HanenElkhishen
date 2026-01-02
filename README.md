@@ -129,7 +129,7 @@ class DataAnalyst:
 [![Project Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HagarAboSamra/depi-DA-project)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV1b2ZwMXdsM2EzNTQxZXMwZ28xa2hyYnozcWRmbGJ4MWRqbW5hcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3eJXfXeQ7mGbXcqIQy/giphy.gif" alt="Project Showcase" width="500"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGV1b2ZwMXdsM2EzNTQxZXMwZ28xa2hyYnozcWRmbGJ4MWRqbW5hcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3eJXfXeQ7mGbXcqIQy/giphy.gif" alt="Project Showcase" width="100"/>
 </div>
 
 **Comprehensive analytical framework examining Premier League performance metrics**
