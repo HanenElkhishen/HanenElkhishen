@@ -196,7 +196,7 @@ I welcome opportunities to collaborate on innovative data analytics projects, co
 
 ### 💡 Professional Philosophy
 
-*"Exceptional data analytics transcends mere computation—it represents the harmonious convergence of technical precision, strategic thinking, and artistic expression. Every dataset contains untold stories; our purpose is to illuminate them with clarity and elegance."*
+*"Exceptional data analytics transcends mere computation; it represents the harmonious convergence of technical precision, strategic thinking, and artistic expression. Every dataset contains untold stories; our purpose is to illuminate them with clarity and elegance."*
 
 ---
 
