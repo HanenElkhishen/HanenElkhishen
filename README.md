@@ -154,12 +154,12 @@ class DataAnalyst:
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HanenElkhishen&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanenElkhishen&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HanenElkhishen&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Statistics" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanenElkhishen&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanenElkhishen&theme=radical&hide_border=true" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanenElkhishen&hide_border=true" alt="GitHub Streak" width="49%"/>
 </div>
 
 ---
