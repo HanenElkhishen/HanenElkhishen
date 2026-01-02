@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Professional Overview
+## 👋 Overview
 
 Distinguished **Data Analyst & Business Intelligence Developer** specializing in transforming complex datasets into actionable insights through sophisticated visualization and analytical methodologies. Committed to delivering data solutions that seamlessly blend technical excellence with aesthetic precision.
 
